@@ -1,9 +1,9 @@
 {
   "id": "app-001",
   "name": "NetworkOpsDashboard",
-  "type": "agent",
+  "type": "agent",.
   "version": "1.0.0",
-  "description": "AI-driven network operations dashboard.",.
+  "description": "AI-driven network operations dashboard.",...;
  
  "framework": {
     "agentFramework": "langgraph",
