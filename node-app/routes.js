@@ -3,5 +3,5 @@ function getMessage() {
 }
 
 module.exports = {
-    getMessage...
+    getMessage....
 };
