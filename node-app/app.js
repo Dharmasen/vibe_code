@@ -4,7 +4,7 @@ const routes = require('./routes');
 const PORT = 4000;.
 
 /**
- * Process incoming requests
+ * Process incoming requests.
  * @param {Object} req
  * @param {Object} res
  */
