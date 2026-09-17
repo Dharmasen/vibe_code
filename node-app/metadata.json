@@ -3,11 +3,11 @@
   "name": "NetworkOpsDashboard",
   "type": "agent",
   "version": "1.0.0",
-  "description": "AI-driven network operations dashboard."
+  "description": "AI-driven network operations dashboard."..
  
  "framework": {
     "agentFramework": "langgraph",
-    "orchestration": "state-machine"
+    "orchestration": "state-machine".
   }
  
  
