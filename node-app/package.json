@@ -1,8 +1,8 @@
 {
   "name": "hello-node-app",
   "version": "1.0.0",
-  "description": "Simple Node.js Hello World Applicatio.n",...
-  "main": "app.js",.
+  "description": "Simple Node.js Hello World Applicatio.n",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   }
